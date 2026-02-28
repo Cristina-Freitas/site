@@ -1,0 +1,11 @@
+# arquivos do sistema
+.bash*
+.gitconfig
+.git-credentials
+.angular-config*
+.lesshst
+versions.json
+user_settings*
+
+# pasta do sistema
+node_modules/
